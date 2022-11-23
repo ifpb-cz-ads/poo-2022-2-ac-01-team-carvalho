@@ -1,5 +1,5 @@
 public class Program {
-    public static void main(String[] args) {
+public static void start(String[] args) {
         System.out.println("Terminei a primeira aula com um programa Java!");
     }
 }
