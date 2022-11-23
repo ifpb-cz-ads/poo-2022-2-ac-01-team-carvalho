@@ -4,3 +4,4 @@ JRE: Fornece o ambiente para execução dos códigos java.
 4 - O programa retorna que não consegue localizar o .class.
 5 - O programa retorna que não é executavel.
 7 - O programa retorna que não executavel e tem diversos erros de sintaxe.
+8 - O programa não executa.
